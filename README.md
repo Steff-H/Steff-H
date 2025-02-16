@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>Hello I'm Steffon, an IT Helpdesk Professional</a>☺</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 <!--
 **Steff-H/Steff-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
