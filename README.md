@@ -1,4 +1,4 @@
-<h1>Hello I'm Steffon, an IT Helpdesk Professional</a>☺</h1>
+<h1>Hello I'm Steffon, an IT Helpdesk Professional</a>🧐</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
